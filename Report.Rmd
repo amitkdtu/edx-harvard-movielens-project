@@ -1,7 +1,7 @@
 ---
 title: "HarvardX: PH125.9x Data Science  \n   MovieLens Rating Prediction Project"
-author: "Siddharth Satish"
-date: "April 18, 2019"
+author: "Amit Kumar"
+date: "August 13, 2025"
 output:
   pdf_document:
     toc: true
